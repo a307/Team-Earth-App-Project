@@ -17,7 +17,7 @@ Okanagan Area ONLY
 - Beets:
 - Cabbage (green, red):
 - Potatoes (red, russet, yellow):
-- Rutabaga:
+- Rutabaga: $2.00/lb - $2.28/lb
 - Shallots:
 - Squash (winter):
 - Turnip (white):
@@ -47,7 +47,7 @@ Okanagan Area ONLY
 - Cucumber: $2.00/lb - $2.93/lb
 - Kale: $4.00/lb - $6.50/lb
 - Lettuce:
-- Potatoes (new):
+- Potatoes (new): $2.00/lb - $2.99/lb
 - Radish:
 - Spinach:
 - Swiss chard:
