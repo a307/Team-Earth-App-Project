@@ -19,8 +19,8 @@ Okanagan Area ONLY
 - Potatoes (red, russet, yellow):
 - Rutabaga: $2.00/lb - $2.28/lb
 - Shallots:
-- Squash (winter):
-- Turnip (white):
+- Squash (winter): $1.80/lb - $2.00/lb
+- Turnip (white): $2.28/lb - $3.25/lb
 
 # February:
 ### Fresh–
