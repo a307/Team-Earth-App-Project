@@ -65,7 +65,7 @@ beans, beets, cabbage (green, red, savoy), carrots, garlic, onions (red, yellow)
 - Kale: $4.00/lb - $6.50/lb
 - Lettuce:
 - Mustard greens:
-- Onion (green):
+- Onion (green): $3.00/lb - $4.00/lb
 - Potatoes (new):
 - Radish:
 - Spinach:
