@@ -60,7 +60,7 @@ beans, beets, cabbage (green, red, savoy), carrots, garlic, onions (red, yellow)
 ### Fresh –
 - Apples: $2.00/lb - $2.50/lb
 - Asparagus: $15.60/lb
-- Celery:
+- Celery: $4.94/lb
 - Cucumber: $2.00/lb - $2.93/lb
 - Kale: $4.00/lb - $6.50/lb
 - Lettuce:
