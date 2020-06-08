@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BC Foodie</string>
+
+    <string-array name="produce">
+        <item>Strawberries</item>
+        <item>Apples</item>
+        <item>Celery</item>
+        <item>Kale</item>
+        <item>Tomatoes</item>
+        <item>Blackberries</item>
+        <item>Beets</item>
+        <item>Potatoes</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Random Description1</item>
+        <item>Random Description2</item>
+        <item>Random Description3</item>
+        <item>Random Description4</item>
+        <item>Random Description5</item>
+        <item>Random Description6</item>
+        <item>Random Description7</item>
+        <item>Random Description8</item>
+    </string-array>
+</resources>
